@@ -108,5 +108,4 @@ while True:
     else:
         print("余额不足以购买单价最低商品，结束购买！")        #结束购买
 
-print(1)
 
